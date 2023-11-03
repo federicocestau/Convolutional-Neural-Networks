@@ -3,6 +3,8 @@ CNN uses complex algorithms and artificial neural networks to train machines/com
 
 Convolutional Neural Networks (CNN) tend to be multi-dimensional and contain some special layers, unsurprisingly called Convolutional layers. Moreover, Convolutional layers are often accompanied by Pooling layers (Max or Average), which help reduce the size of convolved features.
 
+Traditional Neural Networks use dense layers with neurons while convolutional layers use filters to create feature maps that extract the main features of the images. 
+
 Convolutional layer
 
 It is worth highlighting that we can have Convolutional layers of different dimensions:
